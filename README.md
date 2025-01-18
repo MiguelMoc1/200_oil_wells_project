@@ -37,13 +37,6 @@ Identificar la región más prometedora para abrir nuevos pozos petroleros, basa
 - **Región 2**: Aunque muestra un beneficio promedio más alto, su rentabilidad no es financieramente viable bajo las condiciones actuales debido al alto costo de inversión.
 - **Región 1**: Ofrece predicciones más precisas con menor variabilidad, ideal para estrategias conservadoras.
 
-### 🖼️ Visualización
-#### Gráfico de Comparación de Beneficios por Región
-![Gráfico de Beneficios](img/benefits_comparison.png)
-
-#### Intervalos de Confianza de Beneficios (Bootstrapping)
-![Intervalos de Confianza](img/confidence_intervals.png)
-
 ---
 
 ## 🛠️ **Tecnologías Utilizadas**

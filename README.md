@@ -44,7 +44,6 @@ Identificar la región más prometedora para abrir nuevos pozos petroleros, basa
 - **Lenguajes y Bibliotecas**:
   - Python
   - Pandas, NumPy
-  - Matplotlib, Seaborn
   - Scikit-learn
 
 - **Métodos Estadísticos**:

@@ -57,4 +57,4 @@ Identificar la región más prometedora para abrir nuevos pozos petroleros, basa
 
 1. **Clona este repositorio**:
    ```bash
-   git clone https://github.com/MiguelMoc1/oil_wells_project.git
+   git clone https://github.com/MiguelMoc1/200_oil_wells_project.git
